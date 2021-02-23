@@ -1,0 +1,1 @@
+This File is to check whether git master branch is working okay or not
